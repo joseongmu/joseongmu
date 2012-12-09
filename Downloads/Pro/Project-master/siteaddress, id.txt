@@ -1,0 +1,5 @@
+http://54.248.227.249:8080/gowith/
+
+administer : test@naver.com / 111111
+user1 : test2@naver.com / 111111
+user2 : test3@naver.com / 111111
